@@ -1,5 +1,7 @@
 # REP para subir practicas de uso de react
 
+This project show how to use a global clock (méxico & Qatar) and how it is update every 1000 mS
+
 
 
 
